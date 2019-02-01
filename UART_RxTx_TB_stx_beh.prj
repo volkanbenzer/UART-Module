@@ -1,0 +1,5 @@
+verilog isim_temp "Uart_Tx_Module.v"
+verilog isim_temp "Uart_Rx_Module.v"
+verilog isim_temp "uart_main.v"
+verilog isim_temp "UART_RxTx_TB.v"
+verilog isim_temp "E:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

@@ -1,0 +1,20 @@
+ISim log file
+Running: G:\Projeler\Spartan3E\Uart_uygulama\UART_RxTx\UART_RxTx\UART_RxTx_TB_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb G:/Projeler/Spartan3E/Uart_uygulama/UART_RxTx/UART_RxTx/UART_RxTx_TB_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Test has been started
+# restart
+# run 10.00us
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+Test has been started
+Test Result=> Sent Data:11001001,  Received Data:11001001, Time:       4148
+# run 10.00us
+# run all
+# run 10.00us
